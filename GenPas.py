@@ -6,7 +6,7 @@ chars = "+-*!&$#?=@<>abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ12345678
 
 
 
-bot = telebot.TeleBot('6297796941:AAHFY4aPqhb5_8K07njP1_9bu5gRn_mLbOM')
+bot = telebot.TeleBot('API')
 
 
 
